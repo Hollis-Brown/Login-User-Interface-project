@@ -10,7 +10,7 @@ body{
     min-height: 100vh;
 }
 .container{
-    background: url("images/1.png");
+    background: url("1.png");
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
